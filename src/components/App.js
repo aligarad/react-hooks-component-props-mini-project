@@ -2,7 +2,7 @@ import React from "react";
 import blogData from "../data/blog";
 import Header from "./components/Header.js";
 import About from "./components/About.js";
-import ArticleList from "./ArticleList";
+import ArticleList from "./components/ArticleList.js";
 
 console.log(blogData);
 
